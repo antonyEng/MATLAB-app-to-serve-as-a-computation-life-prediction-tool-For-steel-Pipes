@@ -1,0 +1,19 @@
+%Initial geometry- Thin Walled Pipe				
+%Parameter	Term	Unit	Value	Note
+%Outer Temp	To	oC	350	Assumed outer wall temperature….check
+350
+%Internal Pipe Diameter	dms	mm	254	Cylinder
+254
+%Stress Concentration Factor	 αm		1
+1	
+%Wall Thickness	ems	mm	25	
+25
+%Assumed Starting Temperature 	To	oC	350	Assumed Starting Temperature
+350
+%Assumed Starting Pressure	Po	MPa	0.1	Assumed Starting Pressure
+0.1
+%Minimum period of sustainted operation	Tsmin	Hrs	3
+3	
+%Maximum Fluctuation of sustainted operation	σmaxFlu	MPa	30	
+20				
+							

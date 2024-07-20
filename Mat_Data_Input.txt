@@ -1,0 +1,21 @@
+%Material Properties and Constants													
+%Property	Term	Unit	P91	Mat 2	Mat 3	Mat 4	Mat 5
+%Elastic Modulus	E	MPa	200000
+200000
+%σm						
+% Stress Concentration Factor	 αm 1		
+1				
+%Stress Concentration Factor- Thermal	 αt		1	
+1			
+%Coefficient of Linear Thermal Expansion	βLt	K-1	1.39E-05
+1.39E-05				
+%Poissons Ratio	 ν		0.3
+0.3				
+%LMP constant C	C		31.4	
+31.4			
+%LMP constant a1	a1		34154
+34154				
+%LMP constant a2	a2		3494
+3494				
+%LMP constant a3	a3		2574				
+2574							
